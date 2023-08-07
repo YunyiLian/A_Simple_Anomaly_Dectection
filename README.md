@@ -1,5 +1,5 @@
 # Anomaly_Dectection
-A school project of applying `Convolutional Autoencoder` to perform anomaly detection on video frames.
+A simple project of applying `Convolutional Autoencoder` to perform anomaly detection on video frames.
 
 ## Project Description
 1. Built a function `convert_video_to_images` to convert the video to `jpeg` images.
